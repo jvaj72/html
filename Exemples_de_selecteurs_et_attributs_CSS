@@ -1,0 +1,6 @@
+div + P				les "p" juste après une "div"
+li > a 	 	 		les "a" premier enfant de "li"
+p.important 	 		les "p" classés "important"
+span[data-poids*="8"] 		les "span" ayant l'attribut "data poids" contenant "8"
+h1 a .secteurTertiaire 		tous les élements qui sont classés "secteurTertiaire" qui ont en ancêtre "a" qui a en ancêtre "h1"
+
